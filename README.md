@@ -1,3 +1,12 @@
+What is Notepad+-?
+===================
+
+This is a clone of Notepad++, but it eliminates political factors. 
+Therefore, it offers Notepad alternatives ++ all the features but -- the politics! 
+
+Regardless of your political opinions, your files **WILL NOT** be damaged in any way!
+
+
 What is Notepad++ ?
 ===================
 
