@@ -7,6 +7,8 @@ Therefore, it offers Notepad alternatives ++ all the features but -- the politic
 Regardless of your political opinions, your files **WILL NOT** be damaged in any way!
 
 
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ ===ORIGINAL NOTEPAD++ README=== ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
 What is Notepad++ ?
 ===================
 
